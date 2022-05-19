@@ -1,0 +1,49 @@
+.header {
+    width: 100%;
+    font-size: xx-large;
+    position: fixed;
+    color: blue;
+    background-color: aliceblue;
+}
+
+.tab {
+    float: left;
+    font-size: large;
+    text-align: center;
+    width: 25%;
+}
+
+.title {
+    float:left;
+    width: 50%;
+    text-align: center;
+}
+
+.error_prompt {
+    color: red;
+    text-align: center;
+}
+
+.main {
+    padding-top: 40px;
+    overflow: auto;
+}
+
+.inline_block {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.inline_block * {
+    margin-right: 10px;
+}
+
+.inventory_entry {
+    color: blue;
+    font-size: x-large;
+}
+
+.block {
+    width: 90%;
+    padding-top: 5px;
+}
